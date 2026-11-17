@@ -1,0 +1,6 @@
+{
+  "name": "Tether",
+  "description": "Low-latency wired USB display mirror and touch input client for Android via ADB reverse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

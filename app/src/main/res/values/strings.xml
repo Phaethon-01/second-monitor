@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tether</string>
+    <string name="waiting_title">Tether Display</string>
+    <string name="status_connecting">Connecting to host…</string>
+    <string name="status_waiting_config">Connected — awaiting stream config…</string>
+    <string name="status_waiting_keyframe">Awaiting first keyframe…</string>
+    <string name="status_reconnecting">Host disconnected — retrying in 500 ms…</string>
+    <string name="status_streaming">Streaming</string>
+    <string name="adb_hint">adb reverse tcp:%1$d tcp:%1$d</string>
+    <string name="decoder_info_format">Decoder: %1$s (%2$dx%3$d @ %4$d fps)</string>
+    <string name="decoder_unavailable">No H.264 decoder found</string>
+    <string name="toggle_stats">Stats</string>
+    <string name="toggle_rotation_landscape">Landscape</string>
+    <string name="toggle_rotation_auto">Auto-Rotate</string>
+    <string name="cd_tether_logo">Tether display link icon</string>
+    <string name="cd_stats_toggle">Toggle performance statistics overlay</string>
+    <string name="cd_rotation_toggle">Toggle screen orientation lock</string>
+</resources>
